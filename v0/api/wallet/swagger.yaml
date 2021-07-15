@@ -1838,7 +1838,7 @@ paths:
         - $ref: '#/parameters/requestID'
         - $ref: '#/parameters/deadline'
         - name: wallet
-          description: Данные создаваемого кошелька (plug here again)
+          description: 'Данные создаваемого кошелька (Hello, World!)'
           in: body
           required: true
           schema:
