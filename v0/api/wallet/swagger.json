@@ -2691,7 +2691,7 @@
           },
           {
             "name": "wallet",
-            "description": "Данные создаваемого кошелька (Hello, World!)",
+            "description": "Данные создаваемого кошелька (Goodbye, cruel world!)",
             "in": "body",
             "required": true,
             "schema": {
